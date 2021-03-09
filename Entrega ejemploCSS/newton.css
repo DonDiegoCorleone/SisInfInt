@@ -1,0 +1,23 @@
+body {
+    padding-left: 11em;
+    color: darkblue;
+    background-color: #ADD8E6  
+	}
+  ul.navbar {
+    position: absolute;
+    top: 3.5em;
+    left: 0em;
+	}
+	
+	ul.navbar li {
+	 list-style-type: none;
+	 background: white;
+	 margin:0.5em;
+	 padding: 0.2em;
+	 border-right: 1em solid black;
+	 color: purple;
+	}
+	
+	ul.navbar a {
+    text-decoration: none }
+	a:link { color:purple; }
