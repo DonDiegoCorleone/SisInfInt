@@ -44,6 +44,7 @@ public class AccesoDatos implements Closeable {
 	 */
 	
 	public List<Producto> getListaProductos() {
+		EntityTransaction tx=em.getTransaction();
 		tx.begin();
 		TypedQuery<Producto> query = em.createQuery("SELECT p from Producto p", Producto.class);
 		List<Producto> listaProductos = query.getResultList();
