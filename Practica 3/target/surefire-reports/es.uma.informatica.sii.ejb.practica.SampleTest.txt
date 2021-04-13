@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: es.uma.informatica.sii.ejb.practica.SampleTest
+-------------------------------------------------------------------------------
+Tests run: 15, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.482 sec

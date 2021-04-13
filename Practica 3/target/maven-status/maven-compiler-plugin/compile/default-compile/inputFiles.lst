@@ -1,0 +1,12 @@
+/home/alumno/Escritorio/Practica 3/src/main/java/es/uma/informatica/sii/ejb/practica/entidades/Lote.java
+/home/alumno/Escritorio/Practica 3/src/main/java/es/uma/informatica/sii/ejb/practica/entidades/Ingrediente.java
+/home/alumno/Escritorio/Practica 3/src/main/java/es/uma/informatica/sii/ejb/practica/ejb/GestionLotes.java
+/home/alumno/Escritorio/Practica 3/src/main/java/es/uma/informatica/sii/ejb/practica/ejb/exceptions/LoteExistenteException.java
+/home/alumno/Escritorio/Practica 3/src/main/java/es/uma/informatica/sii/ejb/practica/entidades/Producto.java
+/home/alumno/Escritorio/Practica 3/src/main/java/es/uma/informatica/sii/ejb/practica/ejb/exceptions/ProductoNoEncontradoException.java
+/home/alumno/Escritorio/Practica 3/src/main/java/es/uma/informatica/sii/ejb/practica/ejb/exceptions/LoteNoEncontradoException.java
+/home/alumno/Escritorio/Practica 3/src/main/java/es/uma/informatica/sii/ejb/practica/ejb/exceptions/TrazabilidadException.java
+/home/alumno/Escritorio/Practica 3/src/main/java/es/uma/informatica/sii/ejb/practica/ejb/GestionProductos.java
+/home/alumno/Escritorio/Practica 3/src/main/java/es/uma/informatica/sii/ejb/practica/ejb/ProductosEJB.java
+/home/alumno/Escritorio/Practica 3/src/main/java/es/uma/informatica/sii/ejb/practica/ejb/exceptions/IngredientesIncorrectosException.java
+/home/alumno/Escritorio/Practica 3/src/main/java/es/uma/informatica/sii/ejb/practica/ejb/LotesEJB.java
